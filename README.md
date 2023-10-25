@@ -6,6 +6,6 @@
 
 ## 使用方法
 
-进入该网址：[fanghong.yiove.com](https://fanghong.yiove.com)
+进入该网址：[.com](https://com)
 
-搭建教程：[https://www.skyqian.com/archives/qq-weixin_fanghong.html](https://www.skyqian.com/archives/qq-weixin_fanghong.html)
+搭建教程：[https://
